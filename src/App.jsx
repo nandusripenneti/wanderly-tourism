@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import "./app.css";
+import "./App.css";
 
 const img = (id) =>
   `https://images.unsplash.com/${id}?auto=format&fit=crop&w=900&q=80`;
